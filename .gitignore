@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Notebook/export scratch from the original learning pass
+*.ipynb
+*.pdf
+*.png
+
+# Local/editor
+.DS_Store
+*.tmp
